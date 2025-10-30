@@ -1,4 +1,4 @@
-# Walmart Data Analysis: A Python + SQL Project
+# Walmart Sales Data Analysis: A Python + SQL Project
 
 ## Project Overview
 
